@@ -1,0 +1,9 @@
+<configuration>
+   <input>
+       <edge-files value="test3.edg.xml"/>
+       <node-files value="test3.nod.xml"/>
+   </input>
+   <output>
+       <output-file value="test3.net.xml"/>
+   </output> 
+</configuration>
